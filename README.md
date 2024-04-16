@@ -19,7 +19,7 @@ git push -u origin main
 
 👋 Welcome to my GitHub profile! I'm Raghunath, a passionate Senior Software Engineer with a keen interest in leveraging technology to drive innovation and solve complex challenges in the IT industry.
 
-💻 As a seasoned [Your Job Title], I specialize in DevOps and Cloud Engineering, with a focus on Information Technologies. With 4 years of hands-on experience in IT, I've honed my skills in [Key Skills or Technologies], enabling me to deliver impactful solutions that meet the needs of modern businesses.
+💻 As a seasoned DevOps Engineer, I specialize in DevOps and Cloud Engineering, with a focus on Information Technologies. With 4 years of hands-on experience in IT, I've honed my skills in Software, DevOps and Cloud, enabling me to deliver impactful solutions that meet the needs of modern businesses.
 
 🚀 I'm dedicated to continuous learning and staying at the forefront of technological advancements. Whether it's diving into the latest frameworks, exploring emerging trends, or collaborating on cutting-edge projects, I'm always eager to expand my knowledge and expertise.
 
